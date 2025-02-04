@@ -23,4 +23,4 @@ This project is designed to analyze and display weather data using modern techno
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone "https://github.com/Pratham-creat/Weather_application.git"
